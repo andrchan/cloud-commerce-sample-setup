@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "2211-jdk21.5",
+    "commerceSuitePreviewVersion": "2211-jdk21.8",
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
