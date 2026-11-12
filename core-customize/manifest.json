@@ -3,7 +3,7 @@
 	"extensionPacks": [
     {
       "name": "hybris-commerce-integrations",
-      "previewVersion": "2211-jdk21.22"
+      "previewVersion": "2211-jdk21.17"
     }
 	],
     "enableImageProcessingService": true,
